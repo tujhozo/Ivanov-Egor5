@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tujh\\source\\repos\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tujh\\source\\repos\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tujh\\source\\repos\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач.csproj",
+        "projectName": "БД Инанов Егор Курсач",
+        "projectPath": "C:\\Users\\tujh\\source\\repos\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач.csproj",
+        "packagesPath": "C:\\Users\\tujh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tujh\\source\\repos\\БД Инанов Егор Курсач\\БД Инанов Егор Курсач\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tujh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net4.5.2-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net4.5.2-windows",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

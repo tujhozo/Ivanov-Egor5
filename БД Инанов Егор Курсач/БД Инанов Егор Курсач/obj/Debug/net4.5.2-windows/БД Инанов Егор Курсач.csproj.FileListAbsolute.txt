@@ -1,0 +1,13 @@
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\bin\Debug\net4.5.2-windows\БД Инанов Егор Курсач.exe.config
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\bin\Debug\net4.5.2-windows\БД Инанов Егор Курсач.exe
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\bin\Debug\net4.5.2-windows\БД Инанов Егор Курсач.pdb
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.csproj.AssemblyReference.cache
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД_Инанов_Егор_Курсач.Form1.resources
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.csproj.GenerateResource.cache
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.AssemblyInfoInputs.cache
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.AssemblyInfo.cs
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.csproj.CoreCompileInputs.cache
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.exe
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД Инанов Егор Курсач.pdb
+C:\Users\tujh\source\repos\БД Инанов Егор Курсач\БД Инанов Егор Курсач\obj\Debug\net4.5.2-windows\БД_Инанов_Егор_Курсач.Главная Форма.resources
